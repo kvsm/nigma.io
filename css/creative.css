@@ -553,3 +553,17 @@ ul.horizontal-list {
         margin: auto;
     }
 }
+
+#team .row img {
+  max-width: 40vw;
+  border-radius: 7px;
+}
+
+#team .row h4,
+#team .row h5 {
+  margin: 7px 0 0;
+}
+
+#team .row .col-lg-2 {
+  margin-bottom: 20px;
+}
